@@ -14,7 +14,7 @@ strategies = [
 boxes = list(range(1, NUM_PRISONERS + 1))
 
 for strategy_name, strategy_function in strategies:
-    results = []
+    results = {'success': [], 'attempts': []}
     for _ in range(NUM_TRIALS):
         random.shuffle(boxes)
 
