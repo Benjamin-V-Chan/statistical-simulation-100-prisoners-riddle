@@ -1,0 +1,1 @@
+# Implements the random choice strategy for the 100 prisoners riddle

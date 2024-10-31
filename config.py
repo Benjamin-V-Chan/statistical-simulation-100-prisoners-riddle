@@ -1,0 +1,1 @@
+# Stores configuration parameters for the simulation, such as number of prisoners and trials
