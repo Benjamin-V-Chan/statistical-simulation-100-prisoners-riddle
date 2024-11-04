@@ -11,7 +11,7 @@ strategies = [
     ("Random Choice Strategy", run_random_choice_strategy)
 ]
 
-boxes = list(range(1, NUM_PRISONERS + 1))
+boxes = list(range(NUM_PRISONERS)) # 0-99 because of natural list indexing start at 0
 
 for strategy_name, strategy_function in strategies:
     results = {'success': [], 'attempts': []}
