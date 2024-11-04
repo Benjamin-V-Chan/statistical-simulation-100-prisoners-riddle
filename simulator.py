@@ -7,8 +7,8 @@ from config import NUM_TRIALS, NUM_PRISONERS, BOX_LIMIT
 from utils import calculate_statistics
 
 strategies = [
-    ("Loop Follow Strategy", run_loop_follow_strategy),
-    ("Random Choice Strategy", run_random_choice_strategy)
+    ("Random Choice Strategy", run_random_choice_strategy),
+    ("Loop Follow Strategy", run_loop_follow_strategy)
 ]
 
 boxes = list(range(NUM_PRISONERS)) # 0-99 because of natural list indexing start at 0
