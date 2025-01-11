@@ -1,4 +1,4 @@
-# 100 Prisoners Problem Simulation
+# statistical-simulation-100-prisoners-riddle
 
 The **100 Prisoners Problem** is a classic puzzle in probability theory and combinatorics. In this scenario, 100 prisoners are each assigned a unique number from 1 to 100 and must find their own number among 100 drawers to survive. Each prisoner is allowed to open only 50 drawers and cannot communicate with others. Despite the bleak odds, a known strategy remarkably increases their chances of survival.
 
