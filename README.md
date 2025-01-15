@@ -8,7 +8,7 @@ The problem was first proposed by Anna Gál and Peter Bro Miltersen in 2003. The
 - **Each prisoner** may open only **50 drawers**.
 - **No communication** is allowed between prisoners.
 
-If each prisoner selects drawers randomly, the probability of all prisoners finding their numbers is astronomically low: approximately \(0.0000000000000000000000000000008\).
+If each prisoner selects drawers randomly, the probability of all prisoners finding their numbers is astronomically low: approximately (0.0000000000000000000000000000008).
 
 ## Known Strategy
 
